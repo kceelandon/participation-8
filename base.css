@@ -4,9 +4,8 @@ img {
   margin-right: auto;
 }
 
-.first-header {
-  margin-left: auto;
-  margin-right: auto;
+h1 {
+  text-align: center;
   font-family: fantasy;
   color: blue;
 }
