@@ -28,9 +28,11 @@ a:link, a:visited {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    margin: auto;
 }
 
 
 a:hover, a:active {
     background-color: red;
+    margin: auto;
 }
