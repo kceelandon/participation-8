@@ -18,4 +18,9 @@ p {
   color: white;
   font-family: fantasy;
   font-size: 12px;
+  text-align: center;
+}
+
+a {
+  text-align: center;
 }
