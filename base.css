@@ -4,7 +4,7 @@ img {
   margin-right: auto;
 }
 
-h1, h2 {
+h1 {
   text-align: center;
   font-family: fantasy;
   color: blue;
@@ -14,8 +14,8 @@ body {
   background-image: url("me.png")
 }
 
-p {
+h2 {
   text-align: center;
   font-family: fantasy;
-  color: green;
+  color: blue;
 }
