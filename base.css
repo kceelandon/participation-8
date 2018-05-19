@@ -9,3 +9,13 @@ h1, h2 {
   font-family: fantasy;
   color: blue;
 }
+
+body {
+  background-color: black;
+}
+
+p {
+  color: white;
+  font-family: fantasy;
+  font-size: 12px;
+}
